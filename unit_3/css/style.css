@@ -14,6 +14,11 @@ body {
 	font-family: "Lora Bold"
 }
 
+#subtitle {
+	font-size: 18px;
+	font-weight: 500;
+}
+
 .hero-image {
 	background-image: url("ebookbeach.jpg");
 	background-image: cover;
