@@ -32,7 +32,10 @@ hr {
 ul {
 	text-align: center;
 	font-family: "Lora Bold"
+}
 
+img {
+	width: 100%;
 }
 
 button {
