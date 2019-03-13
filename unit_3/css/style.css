@@ -16,6 +16,10 @@ body {
 	background-image: cover;
 }
 
+hr {
+	width: 200px;
+}
+
 ul {
 	text-align: center;
 	font-family: "Lora Bold"
