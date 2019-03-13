@@ -12,8 +12,12 @@ h1 {
 body {
 	text-align: center;
 	font-family: "Lora Bold"
-	background-image: url("images/ebookbeach.jpg");
+}
+
+.hero-image {
+	background-image: url("ebookbeach.jpg");
 	background-image: cover;
+	background-position: center;
 }
 
 hr {
