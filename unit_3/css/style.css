@@ -2,27 +2,15 @@ h1 {
 	color: #88d0b3;
 	background-color: #FFFFFF;
 	font-size: 24px;
-	font-family: "Lora Bold"
+	font-family: Helvetica
 	font-weight: 700;
 	text-align: center;
 	text-transform: uppercase;;
-
 }
 
 body {
 	text-align: center;
-	font-family: "Lora Bold"
-}
-
-#subtitle {
-	font-size: 18px;
-	font-weight: 500;
-}
-
-.hero-image {
-	background-image: url("ebookbeach.jpg");
-	background-image: cover;
-	background-position: center;
+	font-family: Helvetica
 }
 
 hr {
@@ -31,18 +19,12 @@ hr {
 
 ul {
 	text-align: center;
-	font-family: "Lora Bold"
-}
-
-img {
-	width: 100%;
+	font-family: Helvetica
 }
 
 button {
 	background-color: #88d0b3;
 	color: #FFFFFF;
-	font-family: "Lora Bold"
+	font-family: Helvetica
 	font-size: 18px;
-
-
 }
