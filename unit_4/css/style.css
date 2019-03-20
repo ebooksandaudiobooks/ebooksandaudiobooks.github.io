@@ -8,12 +8,14 @@ body{
 h1{
 	color: #000;
 	font-size: 5em;
+	font-family: sans-serif;
 	font-weight: 700;
 	text-transform: uppercase;
 }
 
 header{
 	padding: 0 200px;
+	font-family: sans-serif;
 }
 
 nav{
@@ -34,14 +36,17 @@ footer{
 
 h2{
 	font-size: 3.5em;
+	font-family: sans-serif;
 }
 
 h3{
 	font-size: 2.5em;
+	font-family: sans-serif;
 }
 
 h4{
 	font-size: 1.5em;
+	font-family: sans-serif;
 }
 
 hr{
