@@ -7,12 +7,13 @@ h1 {
 	text-align: center;
 	text-transform: uppercase;;
 
-section {
-background-image: url(../images/headbanner.jpg);
-background-size: cover;
-width: 20em;
-margin: auto;
-border: 1px solid;
+#header{
+background:url(../images/headbanner.jpg) no-repeat center center scroll;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-0-background-size: cover;
+height: 750px;
+padding: 20px 0;
 }
 
 #subheader {
