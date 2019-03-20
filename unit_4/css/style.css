@@ -1,0 +1,136 @@
+body{
+	background-color:  #ebedef;
+	font-family: Helvetica;
+	font-size: 16px; /*1em = 16px*/
+	text-align: center;
+	position: relative;
+
+h1{
+	color: #000;
+	font-size: 5em;
+	font-family: Helvetica;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+	
+
+header{
+	padding: 0 200px;
+}
+
+nav{
+	margin: auto;
+}
+
+main{
+	padding: 50px 0;
+}
+
+section{
+	padding: 50px 0;
+}
+
+footer{
+	padding: 0 200px;
+}
+
+h2,
+h3,
+h4{
+	font-family: Helvetica, serif;
+}
+
+h2{
+	font-size: 3.5em;
+}
+
+h3{
+	font-size: 2.5em;
+}
+
+h4{
+	font-size: 1.5em;
+}
+
+hr{
+	border: none;
+	height: 3px;
+	background-color: #FFFFFF;
+	width: 2em;
+	margin: 1 em auto;
+}
+
+p{
+	font-family: Helvetica, serif;
+	font-size: 1em;
+	line-height: 1.5em;
+}
+
+li{
+	font-family: Helvetica, serif;
+}
+
+a{
+	text-decoration: none;
+	border-bottom: 1px solid #000;
+	padding-bottom: 2px;
+}
+
+img{
+	width:100%;
+}
+
+.navlinks{
+	font-family: Helvetica, serif;
+	text-transform: uppercase;
+	font-weight: 600;
+	letter-spacing: 2px;
+	padding: 20px;
+}
+
+.pointers{
+	width: 30em;
+	margin: 2em auto;
+}
+
+.books{
+	width: 20em;
+	margin: 3em auto;
+}
+
+.steps{
+	width: 30em;
+	margin: 2em auto;
+}
+
+.reviews{
+	width: 30em;
+	margin: 2em auto;
+}
+
+
+#header{
+	background:url(../images/headbanner.jpg) no-repeat center center scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	height: 750px;
+	padding: 20px 0;
+	}
+
+#offer{
+	font-family: Helvetica, serif;
+	position: left;
+}
+
+#position{
+	font-family: Helvetica, serif;
+	position: left;
+}
+
+button {
+	background-color: #FF5733;
+	color: #FFFFFF;
+	font-family: Helvetica;
+	font-size: 3em;
+}
