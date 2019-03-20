@@ -1,18 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Lora');
+
 body{
-	background-color:  #ebedef;
-	font-family: Helvetica;
+	background-color: #000;
+	font-family: 'Lora', serif;
 	font-size: 16px; /*1em = 16px*/
-	text-align: center;
-	position: relative;
 
 h1{
 	color: #000;
 	font-size: 5em;
-	font-family: Helvetica;
 	font-weight: 700;
 	text-transform: uppercase;
 }
-	
 
 header{
 	padding: 0 200px;
@@ -32,12 +30,6 @@ section{
 
 footer{
 	padding: 0 200px;
-}
-
-h2,
-h3,
-h4{
-	font-family: Helvetica, serif;
 }
 
 h2{
@@ -61,13 +53,8 @@ hr{
 }
 
 p{
-	font-family: Helvetica, serif;
 	font-size: 1em;
 	line-height: 1.5em;
-}
-
-li{
-	font-family: Helvetica, serif;
 }
 
 a{
@@ -81,7 +68,6 @@ img{
 }
 
 .navlinks{
-	font-family: Helvetica, serif;
 	text-transform: uppercase;
 	font-weight: 600;
 	letter-spacing: 2px;
@@ -108,12 +94,9 @@ img{
 	margin: 2em auto;
 }
 
-
 #header{
-	background:url(../images/headbanner.jpg) no-repeat center center scroll;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
+	background:url(../images/headbanner.jpg);
+	background-size: cover;
 	height: 750px;
 	padding: 20px 0;
 	}
@@ -128,9 +111,18 @@ img{
 	position: left;
 }
 
-button {
-	background-color: #FF5733;
+.button{
+	background-color:  #f39c12; /*orange*/
+	border-radius: 8px;
+	padding: 14px 40px;
 	color: #FFFFFF;
-	font-family: Helvetica;
 	font-size: 3em;
+	-webkit-transition-duration: 0.4s; /* Safari */
+  	transition-duration: 0.4s;
+  	cursor: pointer;
+}
+
+.button:hover{
+	background-color: #f8c471;
+	color: #FFFFFF;
 }
