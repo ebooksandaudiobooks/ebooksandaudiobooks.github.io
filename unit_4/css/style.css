@@ -1,10 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Lora');
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
 
-body{
-}
-footer{
-	text-transform: uppercase
+h1{
+	
 }
 h2{
 	font-size: 2.5em;
@@ -36,17 +34,23 @@ a{
 	text-decoration: none;
 	text-transform: uppercase;
 }
+footer{
+	text-transform: uppercase
+}
 #offer{
 	background-image: url(../images/headbanner.jpg);
-	background: cover;
-	color: #FFF;
+	background-image: cover;
 	font-family: sans-serif;
+	height: 25em;
+}
+.headtitle{
+	color: #FFF;
+
 }
 .books img{
 	width:100%;
 }
 .logo{
-	color: #000;
 	font-size: 5em;
 	font-family: sans-serif;
 	font-weight: 700;
