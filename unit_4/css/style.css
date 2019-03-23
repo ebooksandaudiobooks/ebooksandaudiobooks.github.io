@@ -13,37 +13,39 @@ nav{
 }
 footer{
 	font-family: 'Lora', serif;
+	text-transform: uppercase
 }
 h2{
-	font-size: 3.5em;
-	font-family: sans-serif;
+	font-size: 2.5em;
+	font-family: 'Lora', sans-serif;
 }
 h3{
-	font-size: 2.5em;
-	font-family: sans-serif;
+	font-size: 2em;
+	font-family: 'Lora', sans-serif;
 }
 h4{
 	font-size: 1.5em;
-	font-family: sans-serif;
+	font-family: 'Lora', sans-serif;
 }
 hr{
 	border: none;
 	height: 3px;
-	background-color: #FFFFFF;
 	width: 2em;
-	margin: 1 em auto;
 }
 p{
 	font-family: 'Merriweather', serif;
 	font-size: 1em;
 	line-height: 1.25em;
 }
+img{
+	float: right;
+}
 a{
 	font-family: serif;
 	text-decoration: none;
 	text-transform: uppercase;
 }
-.booksimg{
+.books img{
 	width:100%;
 }
 .logo{
@@ -65,29 +67,22 @@ a{
 }
 .grid-container{
   display: grid;
-  grid-row-gap: 50px;
   grid-template-columns: auto auto auto auto;
-  padding: 10px;
 }
 .grid-item{
   float: left;
-  font-size: 30px;
+  width: 25%; /*four boxes*/
+  padding: 3em;
+  height: 500px;
   text-align: center;
 }
 .books{
 	font-family: 'Lora', serif;
 	width: 20em;
-	margin: 3em auto;
 }
 .reviews{
 	font-family: 'Lora', serif;
 	width: 30em;
-}
-#offer{
-	font-family: 'Lora', serif;
-}
-#position{
-	font-family: 'Lora', serif;
 }
 .button{
 	background-color:  #f39c12; /*orange*/
