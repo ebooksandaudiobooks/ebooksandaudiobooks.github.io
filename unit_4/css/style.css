@@ -34,7 +34,7 @@ img{
 	float: right;
 }
 a{
-	font-family: serif;
+	font-family: sans-serif;
 	text-decoration: none;
 	text-transform: uppercase;
 }
@@ -59,8 +59,7 @@ a{
 	text-align: center;
 	font-weight: 900;
 	letter-spacing: 1.5px;
-	padding-left: 3em;
-	padding-right: 3em;
+	width: 3em;
 }
 .pointers{
 	font-family: 'Lora', serif;
@@ -87,9 +86,10 @@ a{
 }
 .button{
 	background-color:  #f39c12; /*orange*/
+	color: #FFF;
 	border-radius: 8px;
 	padding: 14px 40px;
-	font-size: 3em;
+	font-size: 2em;
   	transition-duration: 0.4s;
 }
 .button:hover{
