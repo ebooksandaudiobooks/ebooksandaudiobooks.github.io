@@ -4,13 +4,6 @@
 body{
 	font-family: Lora, Merriweather, sans-serif;
 }
-header{
-	background-image: url(../images/headbanner.jpg);
-	font-family: sans-serif;
-}
-nav{
-	margin: 
-}
 footer{
 	font-family: 'Lora', serif;
 	text-transform: uppercase
@@ -45,6 +38,11 @@ a{
 	text-decoration: none;
 	text-transform: uppercase;
 }
+#offer{
+	background-image: url(../images/headbanner.jpg);
+	background: cover;
+	font-family: sans-serif;
+}
 .books img{
 	width:100%;
 }
@@ -58,8 +56,11 @@ a{
 .navlinks{
 	font-family: 'Lora', serif;
 	text-transform: uppercase;
+	text-align: center;
 	font-weight: 900;
-	letter-spacing: 2px;
+	letter-spacing: 1.5px;
+	padding-left: 3em;
+	padding-right: 3em;
 }
 .pointers{
 	font-family: 'Lora', serif;
