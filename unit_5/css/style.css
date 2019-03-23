@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Lora');
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+
+h1{
+	
+}
+h2{
+	font-size: 2.5em;
+	font-family: sans-serif;
+}
+h3{
+	font-size: 2em;
+	font-family: sans-serif;
+}
+h4{
+	font-size: 1.5em;
+	font-family: sans-serif;
+}
+hr{
+	border: none;
+	height: 3px;
+	width: 2em;
+}
+p{
+	font-family: 'Merriweather', serif;
+	font-size: 1em;
+	line-height: 1.25em;
+}
+img{
+	float: right;
+}
+a{
+	font-family: sans-serif;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+footer{
+	text-transform: uppercase
+}
+#offer{
+	background-image: url(../images/headbanner.jpg);
+	background-image: cover;
+	font-family: sans-serif;
+	height: 25em;
+}
+.headtitle{
+	color: #FFF;
+
+}
+.books img{
+	width:100%;
+}
+.logo{
+	font-size: 5em;
+	font-family: sans-serif;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.navlinks{
+	font-family: sans-serif;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: 900;
+	letter-spacing: 1.5px;
+	width: 3em;
+}
+.pointers{
+	font-family: 'Lora', serif;
+	width: 30em;
+}
+.grid-container{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+.grid-item{
+  float: left;
+  width: 25%; /*four boxes*/
+  padding: 3em;
+  height: 500px;
+  text-align: center;
+}
+.books{
+	font-family: 'Lora', serif;
+	width: 20em;
+}
+.reviews{
+	font-family: 'Lora', serif;
+	width: 30em;
+}
+.button{
+	background-color:  #f39c12; /*orange*/
+	color: #FFF;
+	font-family: 
+	border-radius: 8px;
+	padding: 14px 40px;
+	font-size: 2em;
+  	transition-duration: 0.4s;
+}
+.button:hover{
+	background-color: #f8c471;
+}
