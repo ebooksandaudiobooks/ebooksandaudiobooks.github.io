@@ -50,6 +50,8 @@ footer{
 #promotion{
 	color: #FFF;
 	font-variant: small-caps; 
+}
+#promise{
 	background-color: #FFC675;
 }
 #selection{
@@ -99,6 +101,9 @@ footer{
 .books{
 	font-family: 'Lora', serif;
 	width: 20em;
+}
+.devices{
+	background-position: right bottom;
 }
 .reviews{
 	font-family: 'Lora', serif;
