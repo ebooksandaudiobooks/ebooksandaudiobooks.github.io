@@ -1,9 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Lora');
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
 
-h1{
-	
-}
 h2{
 	font-size: 2.5em;
 	font-family: sans-serif;
@@ -45,7 +42,10 @@ footer{
 }
 .headtitle{
 	color: #FFF;
-
+}
+.promotion{
+	color: #FFF;
+	font-variant: small-caps; 
 }
 .books img{
 	width:100%;
@@ -88,12 +88,12 @@ footer{
 	width: 30em;
 }
 .button{
-	background-color:  #f39c12; /*orange*/
+	background-color: coral;
 	color: #FFF;
 	font-family: 
-	border-radius: 8px;
+	border-radius: 10px;
 	padding: 14px 40px;
-	font-size: 2em;
+	font-size: 1.5em;
   	transition-duration: 0.4s;
 }
 .button:hover{
