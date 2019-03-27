@@ -43,7 +43,7 @@ footer{
 }
 #offer{
 	background-image: url(../images/headbanner.jpg);
-	background-image: cover;
+	background-size: cover;
 	font-family: sans-serif;
 	height: 25em;
 }
