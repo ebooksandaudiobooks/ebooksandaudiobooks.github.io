@@ -86,6 +86,7 @@ footer{
 .pointers{
 	font-family: 'Lora', serif;
 	width: 30em;
+	background-color: yellow;
 }
 .grid-container{
   display: grid;
