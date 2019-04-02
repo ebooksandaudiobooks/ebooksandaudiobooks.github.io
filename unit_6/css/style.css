@@ -66,6 +66,11 @@ footer{
 	background-color: #FFE2B8;
 }
 
+.logo{
+	float: left;
+	width: 350px;
+}
+
 .heroimage{
 	background-image: url(../images/coverimage.jpg);
 	background-size: cover;
