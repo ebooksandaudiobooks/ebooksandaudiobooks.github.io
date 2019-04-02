@@ -11,6 +11,10 @@ body{
 }
 header{
 	background-color: #FFED74
+	background-image: url(../images/coverimage.jpg);
+	background-size: cover;
+	height: 30em;
+	opacity: 0.9;
 }
 nav{
 	background-color: #E8C66A;
@@ -48,11 +52,6 @@ footer{
 	background-color: red;
 }
 
-#offer{
-	background-image: url(../images/coverimage.jpg);
-	background-size: cover;
-	height: 30em;
-}
 #promotion{
 	color: #FFF;
 	font-variant: small-caps; 
