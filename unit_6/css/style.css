@@ -9,12 +9,6 @@
 body{
 	font-family: sans-serif;
 }
-header{
-	background-image: url(../images/coverimage.jpg);
-	background-size: cover;
-	height: 30em;
-	opacity: 0.9;
-}
 nav{
 	background-color: #E8C66A;
 	text-align: right;
@@ -71,8 +65,20 @@ footer{
 #reviews{
 	background-color: #FFE2B8;
 }
+
+.heroimage{
+	background-image: url(../images/coverimage.jpg);
+	background-size: cover;
+	position: relative;
+	height: 30em;
+	opacity: 0.9;
+}
+
+.herotext{
+	color: white;
+}
+
 .headtitle{
-	color: #FFF;
 	padding: 30px 50px 10px 50px;
 }
 .books img{
