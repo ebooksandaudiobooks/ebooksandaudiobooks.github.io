@@ -6,78 +6,66 @@
 	margin: 0;
 	box-sizing: border-box;
 }
-
+body{
+	font-family: sans-serif;
+}
 header{
 	background-color: #FFED74
 }
-
 nav{
-	background-color: #E8C66A
+	background-color: #E8C66A;
 	text-align: right;
 }
-
 h2{
 	font-size: 2.5em;
-	font-family: sans-serif;
 }
-
 h3{
 	font-size: 2em;
-	font-family: sans-serif;
 }
-
 h4{
 	font-size: 1.5em;
-	font-family: sans-serif;
 }
-
 hr{
 	border: none;
 	height: 3px;
 	width: 2em;
 }
-
 p{
-	font-size: 1em;
-	line-height: 1.25em;
+	font-size: 1.25em;
+	line-height: 2.5em;
+	font-weight: bold;
 }
-
 img{
 	float: right;
 }
-
 a{
 	font-family: sans-serif;
 	text-decoration: none;
 	text-transform: uppercase;
 }
-
 footer{
 	text-transform: uppercase
 	background-color: red;
 }
 
 #offer{
-	background-image: url(../images/headbanner.jpg);
+	background-image: url(../images/coverimage.jpg);
 	background-size: cover;
-	font-family: sans-serif;
 	height: 30em;
 }
-
 #promotion{
 	color: #FFF;
 	font-variant: small-caps; 
 	padding: 20px 70px;
+	margin-left: 6em;
+	margin-right: 22em;
 }
-
 #promise{
 	background-color: #FFC675;
 }
-
 #selection{
 	background-color: #E89C6C;
 }
-
 #method{
 	background-color: #FF957E;
 }
@@ -85,16 +73,13 @@ footer{
 #reviews{
 	background-color: #FFE2B8;
 }
-
 .headtitle{
 	color: #FFF;
-	padding: 40px;
+	padding: 30px 50px;
 }
-
 .books img{
 	width:100%;
 }
-
 .logo{
 	font-size: 5em;
 	font-family: sans-serif;
@@ -102,7 +87,6 @@ footer{
 	text-transform: uppercase;
 	padding: 0 20px;
 }
-
 .navlinks{
 	font-family: sans-serif;
 	text-transform: uppercase;
@@ -113,19 +97,16 @@ footer{
 	padding-right: 1em;
 	padding-left: 1em;
 }
-
 .pointers{
 	font-family: 'Lora', serif;
 	width: 30em;
 	background-color: yellow;
 	float: left;
 }
-
 .grid-container{
   display: grid;
   grid-template-columns: auto auto auto auto;
 }
-
 .grid-item{
   float: left;
   width: 25%; /*four boxes*/
@@ -133,21 +114,17 @@ footer{
   height: 500px;
   text-align: center;
 }
-
 .books{
 	font-family: 'Lora', serif;
 	width: 20em;
 }
-
 .devices{
 	background-position: right bottom;
 }
-
 .reviews{
 	font-family: 'Lora', serif;
 	width: 30em;
 }
-
 .button{
 	background-color: orange;
 	color: #FFF;
@@ -156,14 +133,12 @@ footer{
 	padding: 15px 40px;
 	font-size: 1.5em;
   	transition-duration: 0.4s;
-  	margin-left: 6em;
+  	margin-left: 9em;
   	margin-top: 2em;
 }
-
 .button:hover{
 	background-color: #f8c471;
 }
-
 .clearfix:after{
 	visibility: hidden;
 	display: block;
