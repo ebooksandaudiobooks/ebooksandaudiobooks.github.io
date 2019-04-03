@@ -60,10 +60,6 @@ footer{
 	margin-right: 35em;
 }
 
-#promise{
-	background-color: #FFC675;
-}
-
 #table{
 	margin-left: 9em;
 	padding-top: 3em;
@@ -132,7 +128,6 @@ footer{
 
 .pointers{
 	width: 40em;
-	background-color: yellow;
 	height: 80px;
 }
 
@@ -142,7 +137,7 @@ footer{
 	padding-top: 15px;
 }
 
-.h3 > p{
+.argument{
 	font-size: .95em;
 	line-height: 2em;
 	padding-left:45px;
