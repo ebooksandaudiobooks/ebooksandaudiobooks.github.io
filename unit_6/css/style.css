@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:600i|Raleway:300');
+@import url('https://fonts.googleapis.com/css?family=Lato:700|Open+Sans');
 
 *{
 	padding: 0;
@@ -6,7 +6,7 @@
 	box-sizing: border-box;
 }
 body{
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 nav{
 	text-align: right;
@@ -23,15 +23,15 @@ nav a:hover{
 
 h2{
 	font-size: 2.5em;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Lato', sans-serif;
 }
 h3{
 	font-size: 2em;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Lato', sans-serif;
 }
 h4{
 	font-size: 1.5em;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Lato', sans-serif;
 }
 hr{
 	border: none;
