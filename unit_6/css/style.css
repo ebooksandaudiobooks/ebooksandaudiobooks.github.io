@@ -94,14 +94,6 @@ footer{
 	color: white;
 }
 
-.headtitle{
-	padding: 0px 50px 10px 100px;
-}
-
-.books img{
-	width:100%;
-}
-
 .navlinks{
 	text-align: center;
 	font-weight: 900;
@@ -110,6 +102,26 @@ footer{
 	width: 3em;
 	margin-right: 1em;
 	margin-left: 1em;
+}
+
+.headtitle{
+	padding: 0px 50px 10px 100px;
+}
+
+.button{
+	background-color: orange;
+	color: #FFF;
+	border-radius: 5px;
+	padding: 15px 40px;
+	font-size: 1.25em;
+	font-weight: bold;
+  	transition-duration: 0.4s;
+  	margin-left: 5.5em;
+  	margin-top: 2em;
+}
+
+.button:hover{
+	background-color: #f8c471;
 }
 
 .pointers{
@@ -122,10 +134,12 @@ footer{
 	width: 10px;
 	float:left;
 }
+
 .grid-container{
   	display: grid;
   	grid-template-columns: auto auto auto auto;
 }
+
 .grid-item{
   	float: left;
   	width: 25%; /*four boxes*/
@@ -133,29 +147,23 @@ footer{
 	height: 500px;
 	text-align: center;
 }
+
 .books{
 	width: 20em;
 }
+
+.books img{
+	width:100%;
+}
+
 .devices{
 	background-position: right bottom;
 }
+
 .reviews{
 	width: 30em;
 }
-.button{
-	background-color: orange;
-	color: #FFF;
-	border-radius: 5px;
-	padding: 15px 40px;
-	font-size: 1.25em;
-	font-weight: bold;
-  	transition-duration: 0.4s;
-  	margin-left: 5.5em;
-  	margin-top: 2em;
-}
-.button:hover{
-	background-color: #f8c471;
-}
+
 .clearfix:after{
 	visibility: hidden;
 	display: block;
