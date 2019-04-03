@@ -1,12 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Rambla:700|Roboto:700');
-
 *{
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
 }
 body{
-	font-family: 'Roboto', sans-serif;
+	font-family: sans-serif;
 }
 nav{
 	text-align: right;
@@ -22,16 +20,13 @@ nav a:hover{
 }
 
 h2{
-	font-size: 2.5em;
-	font-family: 'Rambla', sans-serif;
+	font-size: 3.5em;
 }
 h3{
 	font-size: 2em;
-	font-family: 'Rambla', sans-serif;
 }
 h4{
 	font-size: 1.5em;
-	font-family: 'Rambla', sans-serif;
 }
 hr{
 	border: none;
@@ -58,7 +53,6 @@ footer{
 
 #promotion{
 	color: #FFF;
-	font-variant: small-caps; 
 	padding: 20px 70px;
 	margin-left: 2em;
 	margin-right: 35em;
@@ -97,7 +91,7 @@ footer{
 }
 
 .headtitle{
-	padding: 0px 50px 10px 50px;
+	padding: 0px 50px 10px 100px;
 }
 .books img{
 	width:100%;
@@ -113,7 +107,6 @@ footer{
 	margin-left: 1em;
 }
 .pointers{
-	font-family: 'Lora', serif;
 	width: 30em;
 	background-color: yellow;
 	float: left;
@@ -130,14 +123,12 @@ footer{
   text-align: center;
 }
 .books{
-	font-family: 'Lora', serif;
 	width: 20em;
 }
 .devices{
 	background-position: right bottom;
 }
 .reviews{
-	font-family: 'Lora', serif;
 	width: 30em;
 }
 .button{
