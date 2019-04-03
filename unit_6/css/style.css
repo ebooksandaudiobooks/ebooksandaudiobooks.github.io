@@ -58,16 +58,15 @@ footer{
 	margin-left: 2em;
 	margin-right: 35em;
 }
+
 #promise{
 	background-color: #FFC675;
 }
-#checkicon{
-	width: 10px;
-	float:left;
-}
+
 #selection{
 	background-color: #E89C6C;
 }
+
 #method{
 	background-color: #FF957E;
 }
@@ -98,6 +97,7 @@ footer{
 .headtitle{
 	padding: 0px 50px 10px 100px;
 }
+
 .books img{
 	width:100%;
 }
@@ -111,21 +111,27 @@ footer{
 	margin-right: 1em;
 	margin-left: 1em;
 }
+
 .pointers{
 	width: 30em;
 	background-color: yellow;
 	float: left;
 }
+
+.pointers img{
+	width: 10px;
+	float:left;
+}
 .grid-container{
-  display: grid;
-  grid-template-columns: auto auto auto auto;
+  	display: grid;
+  	grid-template-columns: auto auto auto auto;
 }
 .grid-item{
-  float: left;
-  width: 25%; /*four boxes*/
-  padding: 3em;
-  height: 500px;
-  text-align: center;
+  	float: left;
+  	width: 25%; /*four boxes*/
+	padding: 3em;
+	height: 500px;
+	text-align: center;
 }
 .books{
 	width: 20em;
