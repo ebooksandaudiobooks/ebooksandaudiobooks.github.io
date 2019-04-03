@@ -21,6 +21,7 @@ nav a:hover{
 
 h2{
 	font-size: 3.5em;
+	padding: 80px;
 }
 h3{
 	font-size: 2em;
@@ -59,6 +60,10 @@ footer{
 }
 #promise{
 	background-color: #FFC675;
+}
+#checkicon{
+	width: 3px;
+	float:left;
 }
 #selection{
 	background-color: #E89C6C;
