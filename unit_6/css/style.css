@@ -11,7 +11,7 @@ body{
 }
 nav{
 	text-align: right;
-	padding: 20px;
+	padding: 60px;
 }
 
 nav a:visited{
@@ -77,17 +77,17 @@ footer{
 
 .logo{
 	float: left;
-	width: 350px;
+	width: 300px;
 	-webkit-filter: invert(100%);
   	filter: invert(100%);
+  	padding: 35px;
 }
 
 .heroimage{
 	background-image: url(../images/coverimage.jpg);
 	background-size: cover;
 	position: relative;
-	height: 30em;
-	opacity: 0.9;
+	height: 35em;
 }
 
 .herotext{
@@ -95,7 +95,7 @@ footer{
 }
 
 .headtitle{
-	padding: 70px 50px 10px 50px;
+	padding: 0px 50px 10px 50px;
 }
 .books img{
 	width:100%;
@@ -107,8 +107,8 @@ footer{
 	font-size: 0.85em;
 	letter-spacing: 1px;
 	width: 3em;
-	padding-right: 1em;
-	padding-left: 1em;
+	margin-right: 1em;
+	margin-left: 1em;
 }
 .pointers{
 	font-family: 'Lora', serif;
@@ -141,12 +141,12 @@ footer{
 .button{
 	background-color: orange;
 	color: #FFF;
-	font-family: sans-serif; 
-	border-radius: 10px;
+	border-radius: 5px;
 	padding: 15px 40px;
-	font-size: 1.5em;
+	font-size: 1.25em;
+	font-weight: bold;
   	transition-duration: 0.4s;
-  	margin-left: 9em;
+  	margin-left: 5.5em;
   	margin-top: 2em;
 }
 .button:hover{
