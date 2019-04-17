@@ -77,6 +77,10 @@ footer{
 	background-color: #F5F5F5;
 }
 
+#devices{
+	padding-right: 3em;
+}
+
 #blocks{
 	padding-left: 13em;
 	padding-right: 10em;
@@ -172,10 +176,6 @@ footer{
   list-style-type: none;
   margin: 0;
   padding: 0;
-}
-
-.devices{
-	float: right;
 }
 
 .books{
