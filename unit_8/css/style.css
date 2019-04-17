@@ -73,13 +73,10 @@ footer{
 	padding-top: 3em;
 }
 
-#selection{
-	background-color: #E89C6C;
-}
-
 #blocks{
-	padding-left: 10em;
+	padding-left: 13em;
 	padding-right: 10em;
+	padding-top: 5em;
 }
 
 #method{
@@ -136,6 +133,10 @@ footer{
   	margin-top: 2em;
 }
 
+.buttonmargin{
+	padding-top: 4em;
+}
+
 .button:hover{
 	background-color: #f8c471;
 }
@@ -165,30 +166,15 @@ footer{
 	color: #C7BFBF;
 }
 
-.how-to-number{
-	position: absolute;
-  	left: 0px;
-  	top: -2px;
-  	width: 30px;
-  	height: 30px;
-  	padding-top: 1px;
-  	border-radius: 100%;
-  	background-color: #414c57;
-  	color: #fff;
- 	line-height: 24px;
-  	font-weight: 700;
-  	text-align: center;
-}
-
 .grid-item{
   	float: left;
 	padding: 1.5em;
-	height: 500px;
+	height: 400px;
 	text-align: center;
 }
 
 .books{
-	width: 17em;
+	width: 13em;
 }
 
 .books img{
