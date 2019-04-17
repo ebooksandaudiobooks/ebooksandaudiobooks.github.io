@@ -74,6 +74,10 @@ footer{
 	color: #C7BFBF;
 }
 
+#blocks{
+	width: 800px;
+}
+
 #method{
 	background-color: #FF957E;
 }
