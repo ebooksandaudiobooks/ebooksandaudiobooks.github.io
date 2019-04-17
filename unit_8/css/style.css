@@ -220,3 +220,66 @@ footer{
 .clearfix{
 	overflow: auto;
 }
+
+@media screen and (max-width: 1180px){
+#blocks{
+	padding-left: 10em;
+	padding-right: 10em;
+}
+
+@media screen and (max-width: 1145px){
+#blocks{
+	padding-left: 10em;
+	padding-right: 10em;
+}
+
+.grid-item{
+	width: 33%;
+	height: 31em;
+}
+
+h4{
+	padding-top: 23.5em;
+}
+
+.pointers{
+	height: 7em;
+}
+
+
+@media screen and (max-width: 1050px){
+#blocks{
+	padding-left: 10em;
+	padding-right: 10em;
+}
+
+.grid-item{
+	width: 33%;
+	height: 28em;
+}
+
+h4{
+	padding-top: 20.5em;
+}
+
+.pointers{
+	height: 7em;
+}
+
+#devices{
+	padding-left:6em;
+}
+
+img{
+	float: none;
+}
+
+.demo{
+	padding: 2% 20%;
+}
+
+
+
+
+
+
