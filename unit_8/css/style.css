@@ -10,7 +10,7 @@ body{
 
 nav{
 	text-align: right;
-	padding: 60px;
+	padding: 4.5%;
 }
 
 nav a:visited{
@@ -23,12 +23,12 @@ nav a:hover{
 
 h2{
 	font-size: 3.5em;
-	padding: 80px 0px 30px 100px;
+	padding: 5% 0% 2% 8%;
 }
 
 h3{
 	font-size: 1.2em;
-	padding-left: 45px;
+	padding-left: 7%;
 }
 
 h4{
@@ -62,7 +62,7 @@ footer{
 
 #promotion{
 	color: #FFF;
-	padding: 20px 70px;
+	padding: 1% 5%;
 	margin-left: 2em;
 	margin-right: 35em;
 }
@@ -118,7 +118,7 @@ footer{
 }
 
 .headtitle{
-	padding: 0px 50px 10px 100px;
+	padding: 0% 5.5% 1% 8%;
 	font-size: 4.5em;
 }
 
@@ -126,7 +126,7 @@ footer{
 	background-color: orange;
 	color: #FFF;
 	border-radius: 5px;
-	padding: 15px 40px;
+	padding: 1% 4%;
 	font-size: 1.5em;
 	font-weight: bold;
   	transition-duration: 0.4s;
@@ -149,20 +149,20 @@ footer{
 
 .pointers{
 	width: 40em;
-	height: 80px;
+	height: 5em;
 }
 
 .pointers img{
-	width: 30px;
+	width: 1.875em;
 	float:left;
-	padding-top: 15px;
+	padding-top: 1.5%;
 }
 
 .argument{
 	font-size: .95em;
 	line-height: 2em;
-	padding-left:45px;
-	padding-top: 5px;
+	padding-left:7%;
+	padding-top: 1%;
 }
 
 .stories{
