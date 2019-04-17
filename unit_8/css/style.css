@@ -227,6 +227,10 @@ footer{
 		padding-left: 10em;
 		padding-right: 10em;
 	}
+
+	#promotion{
+		margin-right: 29em;
+	}
 }
 
 @media only screen and (max-width: 1145px){
