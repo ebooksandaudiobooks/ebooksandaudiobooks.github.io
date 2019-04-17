@@ -79,7 +79,7 @@ footer{
 }
 
 #method{
-	background-color: #EBEBEB;
+	background-color: #F5F5F5;
 }
 
 #blocks{
@@ -176,6 +176,7 @@ footer{
 
 .devices{
 	float: right;
+	
 }
 
 .books{
@@ -210,4 +211,8 @@ footer{
 	content: " ";
 	clear: both;
 	height: 0;
+}
+
+.clearfix{
+	overflow: auto;
 }
