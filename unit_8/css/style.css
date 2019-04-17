@@ -77,13 +77,6 @@ footer{
 	background-color: #E89C6C;
 }
 
-#stories{
-	font-size: 1.5em;
-	font-weight: normal;
-	padding-left: 10em;
-	color: #C7BFBF;
-}
-
 #blocks{
 	padding-left: 10em;
 	padding-right: 10em;
@@ -163,6 +156,28 @@ footer{
 	line-height: 2em;
 	padding-left:45px;
 	padding-top: 5px;
+}
+
+.stories{
+	font-size: 1.5em;
+	font-weight: normal;
+	padding-left: 10em;
+	color: #C7BFBF;
+}
+
+.how-to-number{
+	position: absolute;
+  	left: 0px;
+  	top: -2px;
+  	width: 30px;
+  	height: 30px;
+  	padding-top: 1px;
+  	border-radius: 100%;
+  	background-color: #414c57;
+  	color: #fff;
+ 	line-height: 24px;
+  	font-weight: 700;
+  	text-align: center;
 }
 
 .grid-item{
