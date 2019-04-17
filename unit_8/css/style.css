@@ -67,11 +67,6 @@ footer{
 	margin-right: 35em;
 }
 
-#table{
-	margin-left: 13em;
-	padding-top: 3em;
-}
-
 #catch{
 	margin-left: 4em;
 	margin-top: 1em;
@@ -143,6 +138,11 @@ footer{
 	background-color: #f8c471;
 }
 
+.table{
+	margin-left: 13em;
+	padding-top: 3em;
+}
+
 .pointers{
 	width: 40em;
 	height: 80px;
@@ -176,7 +176,6 @@ footer{
 
 .devices{
 	float: right;
-	
 }
 
 .books{
