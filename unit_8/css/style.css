@@ -67,6 +67,13 @@ footer{
 	background-color: #E89C6C;
 }
 
+#stories{
+	font-size: 1.5em;
+	font-weight: normal;
+	padding-left: 10em;
+	color: #C7BFBF;
+}
+
 #method{
 	background-color: #FF957E;
 }
@@ -114,7 +121,7 @@ footer{
 	color: #FFF;
 	border-radius: 5px;
 	padding: 15px 40px;
-	font-size: 1em;
+	font-size: 1.5em;
 	font-weight: bold;
   	transition-duration: 0.4s;
   	margin-left: 8em;
@@ -143,11 +150,6 @@ footer{
 	padding-top: 5px;
 }
 
-.grid-container{
-  	display: grid;
-  	grid-template-columns: auto auto auto auto;
-}
-
 .grid-item{
   	float: left;
   	width: 25%; /*four boxes*/
@@ -157,7 +159,7 @@ footer{
 }
 
 .books{
-	width: 20em;
+	width: 17em;
 }
 
 .books img{
