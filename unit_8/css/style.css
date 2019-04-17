@@ -133,7 +133,7 @@ footer{
   	margin-left: 8em;
 }
 
-.buttonmargin{
+.buttontwo{
 	margin-top: 2em;
 	margin-bottom: 4em;
 	margin-left: -8.5em;
@@ -176,7 +176,13 @@ footer{
 .demo {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 6%;
+}
+
+.buttonthree{
+	margin-top: 2em;
+	margin-bottom: 4em;
+	margin-left: -8.5em;
 }
 
 .books{
