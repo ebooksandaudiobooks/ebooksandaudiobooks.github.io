@@ -149,13 +149,6 @@ footer{
 	padding-top: 5px;
 }
 
-.stories{
-	font-size: 1.5em;
-	font-weight: normal;
-	padding-left: 10em;
-	color: #C7BFBF;
-}
-
 .books{
 	width: 13em;
 } 
@@ -175,6 +168,13 @@ footer{
 	line-height: 1.5em;
 	font-weight: lighter;
 	font-size: 1em;
+}
+
+.stories{
+	font-size: 1.5em;
+	font-weight: normal;
+	padding-left: 10em;
+	color: #C7BFBF;
 }
 
 .devices{
