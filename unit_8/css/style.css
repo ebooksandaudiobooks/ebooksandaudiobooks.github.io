@@ -22,7 +22,7 @@ nav a:hover{
 }
 
 h2{
-	font-size: 4.5em;
+	font-size: 3.5em;
 	padding: 80px 0px 30px 100px;
 }
 
@@ -118,6 +118,7 @@ footer{
 
 .headtitle{
 	padding: 0px 50px 10px 100px;
+	font-size: 4.5em;
 }
 
 .button{
