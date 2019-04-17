@@ -89,10 +89,10 @@ footer{
 
 .logo{
 	float: left;
-	width: 300px;
+	width: 19em;
 	-webkit-filter: invert(100%);
   	filter: invert(100%);
-  	padding: 35px;
+  	padding: 3%;
 }
 
 .heroimage{
@@ -185,7 +185,6 @@ footer{
 .grid-item{
   	float: left;
 	padding: 1.5em;
-	height: 400px;
 	text-align: center;
 }
 
