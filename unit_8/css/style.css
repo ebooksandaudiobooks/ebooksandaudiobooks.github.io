@@ -1,0 +1,181 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body{
+	font-family: sans-serif;
+}
+nav{
+	text-align: right;
+	padding: 60px;
+}
+
+nav a:visited{
+	color: white;
+}
+
+nav a:hover{
+	border-bottom: 1px solid white;
+}
+
+h2{
+	font-size: 3.5em;
+	padding: 80px 0px 30px 100px;
+}
+h3{
+	font-size: 1.2em;
+	padding-left: 45px;
+}
+h4{
+	font-size: 1.5em;
+}
+hr{
+	border: none;
+	height: 3px;
+	width: 2em;
+}
+p{
+	font-size: 1.25em;
+	line-height: 2.5em;
+}
+img{
+	float: right;
+}
+a{
+	font-family: sans-serif;
+	text-decoration: none;
+}
+footer{
+	text-transform: uppercase
+	background-color: red;
+}
+
+#promotion{
+	color: #FFF;
+	padding: 20px 70px;
+	margin-left: 2em;
+	margin-right: 35em;
+}
+
+#table{
+	margin-left: 9em;
+	padding-top: 3em;
+}
+
+#selection{
+	background-color: #E89C6C;
+}
+
+#method{
+	background-color: #FF957E;
+}
+
+#reviews{
+	background-color: #FFE2B8;
+}
+
+.logo{
+	float: left;
+	width: 300px;
+	-webkit-filter: invert(100%);
+  	filter: invert(100%);
+  	padding: 35px;
+}
+
+.heroimage{
+	background-image: url(../images/coverimage.jpg);
+	background-size: cover;
+	position: relative;
+	height: 38em;
+}
+
+.herotext{
+	color: white;
+}
+
+.navlinks{
+	text-align: center;
+	font-weight: 900;
+	font-size: 1em;
+	letter-spacing: 1px;
+	width: 3em;
+	margin-right: 1em;
+	margin-left: 1em;
+}
+
+.headtitle{
+	padding: 0px 50px 10px 100px;
+}
+
+.button{
+	background-color: orange;
+	color: #FFF;
+	border-radius: 5px;
+	padding: 15px 40px;
+	font-size: 1em;
+	font-weight: bold;
+  	transition-duration: 0.4s;
+  	margin-left: 8em;
+  	margin-top: 2em;
+}
+
+.button:hover{
+	background-color: #f8c471;
+}
+
+.pointers{
+	width: 40em;
+	height: 80px;
+}
+
+.pointers img{
+	width: 30px;
+	float:left;
+	padding-top: 15px;
+}
+
+.argument{
+	font-size: .95em;
+	line-height: 2em;
+	padding-left:45px;
+	padding-top: 5px;
+}
+
+.grid-container{
+  	display: grid;
+  	grid-template-columns: auto auto auto auto;
+}
+
+.grid-item{
+  	float: left;
+  	width: 25%; /*four boxes*/
+	padding: 3em;
+	height: 500px;
+	text-align: center;
+}
+
+.books{
+	width: 20em;
+}
+
+.books img{
+	width:100%;
+}
+
+.devices{
+	background-position: right bottom;
+}
+
+.reviews{
+	width: 30em;
+}
+
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
