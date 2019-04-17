@@ -22,7 +22,7 @@ nav a:hover{
 }
 
 h2{
-	font-size: 3.5em;
+	font-size: 4.5em;
 	padding: 80px 0px 30px 100px;
 }
 
@@ -68,8 +68,12 @@ footer{
 }
 
 #table{
-	margin-left: 9em;
+	margin-left: 13em;
 	padding-top: 3em;
+}
+
+#catch{
+	margin-left: 16em;
 }
 
 #method{
@@ -129,6 +133,7 @@ footer{
 
 .buttonmargin{
 	margin-top: 2em;
+	margin-bottom: 4em;
 }
 
 .button:hover{
