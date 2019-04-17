@@ -73,7 +73,9 @@ footer{
 }
 
 #catch{
-	margin-left: 16em;
+	margin-left: 4em;
+	margin-top: 1em;
+	font-size: 1.25em;
 }
 
 #method{
