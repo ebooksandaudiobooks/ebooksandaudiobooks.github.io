@@ -161,6 +161,23 @@ footer{
 	padding-top: 5px;
 }
 
+.stories{
+	font-size: 1.5em;
+	font-weight: normal;
+	padding-left: 8em;
+	color: #989191;
+}
+
+.demo {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.devices{
+	float: right;
+}
+
 .books{
 	width: 13em;
 } 
@@ -180,17 +197,6 @@ footer{
 	line-height: 1.5em;
 	font-weight: lighter;
 	font-size: 1em;
-}
-
-.stories{
-	font-size: 1.5em;
-	font-weight: normal;
-	padding-left: 10em;
-	color: #989191;
-}
-
-.devices{
-	float: right;
 }
 
 .reviews{
