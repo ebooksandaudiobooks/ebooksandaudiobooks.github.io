@@ -278,7 +278,25 @@ img{
 	padding: 2% 20%;
 }
 
+@media screen and (max-width: 480px){
+	nav{
+		display: none;
+	}
 
+	nav a:link{
+		display: block;
+	}
+
+
+	label{
+		display: block;
+	}
+
+	#toggle:checked + nav{
+		display: block;
+	}
+	}
+}
 
 
 
