@@ -178,7 +178,7 @@ footer{
 }
 
 .devices{
-	background-position: right bottom;
+	float: right;
 }
 
 .reviews{
