@@ -99,19 +99,22 @@ footer{
 #een{
 	padding: 3% 3% 3% 5%;
 	background-color: white;
-	margin: 5% 45% 5% 20%;
+	margin: 5% 45% 0% 20%;
+	line-height: 1.35em;
 }
 
 #twee{
 	padding: 3% 3% 3% 5%;
 	background-color: white;
-	margin: 5% 45% 5% 20%;
+	margin: 5% 23% 5% 41%;
+	line-height: 1.35em;
 }
 
 #drie{
 	padding: 3% 3% 3% 5%;
 	background-color: white;
 	margin: 5% 45% 5% 20%;
+	line-height: 1.35em;
 }
 
 .logo{
