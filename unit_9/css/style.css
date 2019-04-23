@@ -72,7 +72,6 @@ blockquote{
 
 footer{
 	text-transform: uppercase
-	background-color: red;
 }
 
 #promotion{
@@ -100,6 +99,14 @@ footer{
 	padding-left: 13em;
 	padding-right: 10em;
 	padding-top: 5em;
+}
+
+#een{
+	padding: 10%;
+}
+
+#twee{
+	padding: 10%;
 }
 
 .logo{
