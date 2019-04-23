@@ -97,11 +97,15 @@ footer{
 }
 
 #een{
-	padding: 10%;
+	padding: 3% 3% 3% 5%;
+	background-color: antiquewhite;
+	margin: 5% 45% 5% 20%;
 }
 
 #twee{
-	padding: 10%;
+	padding: 3% 3% 3% 5%;
+	background-color: antiquewhite;
+	margin: 5% 45% 5% 20%;
 }
 
 .logo{
