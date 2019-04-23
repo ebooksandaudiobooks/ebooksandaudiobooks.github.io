@@ -44,10 +44,11 @@ hr{
 
 label{
 	color: white;
-	padding: 7% 5% 0% 0%;
+	padding: 0 32px;
 	text-align: right;
 	text-transform: uppercase;
 	letter-spacing: 2px;
+	display: none;
 }
 
 p{
@@ -309,10 +310,6 @@ footer{
 
 	nav a:link{
 		display: block;
-	}
-
-	.headtitle{
-		padding: 15% 5.5% 1% 8%;
 	}
 
 	#promotion{
