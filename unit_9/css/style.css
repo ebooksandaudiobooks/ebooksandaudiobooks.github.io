@@ -225,6 +225,13 @@ footer{
 	font-size: 1em;
 }
 
+.reviews{
+	background-image: url(../images/ebookbeach.jpg);
+	background-size: cover;
+	position: relative;
+	height: 38em;
+}
+
 .clearfix:after{
 	visibility: hidden;
 	display: block;
