@@ -117,6 +117,12 @@ footer{
 	line-height: 1.35em;
 }
 
+#endpage{
+	text-align: center;
+	padding: 4.5%;
+	color: black;
+}
+
 .logo{
 	float: left;
 	width: 19em;
