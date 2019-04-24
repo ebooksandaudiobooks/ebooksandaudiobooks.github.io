@@ -106,14 +106,14 @@ footer{
 #twee{
 	padding: 3% 3% 3% 5%;
 	background-color: white;
-	margin: 5% 23% 5% 41%;
+	margin: 2% 12% -9% 52%;
 	line-height: 1.35em;
 }
 
 #drie{
 	padding: 3% 3% 3% 5%;
 	background-color: white;
-	margin: 5% 45% 5% 20%;
+	margin: 0% 52% 5% 13%;
 	line-height: 1.35em;
 }
 
@@ -238,7 +238,7 @@ footer{
 	background-image: url(../images/greybackground.jpg);
 	background-size: cover;
 	position: relative;
-	height: 38em;
+	height: 44em;
 	opacity: 0.8;
 }
 
