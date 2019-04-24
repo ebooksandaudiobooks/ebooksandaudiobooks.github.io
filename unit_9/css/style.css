@@ -249,9 +249,8 @@ footer{
 }
 
 .app-store-icon{
-	height: 1.5em;
-	vertical-align: middle;
-	display: inline-block;
+	height: 2.5em;
+	margin: 5% 1%;
 }
 
 .clearfix:after{
