@@ -96,7 +96,7 @@ footer{
 }
 
 #blocks{
-	padding-left: 13em;
+	padding-left: 14em;
 	padding-right: 10em;
 	padding-top: 5em;
 }
@@ -168,7 +168,7 @@ footer{
 	color: #FFF;
 	border-radius: 5px;
 	padding: 1% 4%;
-	font-size: 1.5em;
+	font-size: 1.25em;
 	font-weight: bold;
   	transition-duration: 0.4s;
   	margin-left: 8em;
@@ -223,6 +223,10 @@ footer{
 .buttonthree{
 	margin-bottom: 1em;
 	margin-left: 4.5em;
+}
+
+.booktitle{
+	padding-bottom: 2em;
 }
 
 .books{
