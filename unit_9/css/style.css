@@ -92,6 +92,7 @@ footer{
 
 #devices{
 	padding-right: 3em;
+	width: 64%;
 }
 
 #blocks{
@@ -184,13 +185,13 @@ footer{
 }
 
 .table{
-	margin-left: 13em;
+	margin-left: 10em;
 	padding-top: 3em;
 }
 
 .pointers{
 	width: 40em;
-	height: 5em;
+	height: 6em;
 }
 
 .pointers img{
