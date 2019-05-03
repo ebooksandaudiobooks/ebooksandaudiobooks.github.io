@@ -126,6 +126,10 @@ footer{
 	line-height: 1.35em;
 }
 
+#icons{
+	padding: 1%;
+}
+
 #endpage{
 	text-align: center;
 	padding: 4.5%;
