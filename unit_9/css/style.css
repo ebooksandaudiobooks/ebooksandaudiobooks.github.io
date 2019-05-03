@@ -167,11 +167,12 @@ footer{
 	background-color: orange;
 	color: #FFF;
 	border-radius: 5px;
-	padding: 1% 4%;
-	font-size: 1.25em;
+	padding: 1.2% 4%;
+	font-size: 1.15em;
 	font-weight: bold;
   	transition-duration: 0.4s;
   	margin-left: 8em;
+  	text-transform: uppercase;
 }
 
 .button:hover{
