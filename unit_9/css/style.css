@@ -174,12 +174,6 @@ footer{
   	margin-left: 8em;
 }
 
-.buttontwo{
-	margin-top: 2em;
-	margin-bottom: 4em;
-	margin-left: -8.5em;
-}
-
 .button:hover{
 	background-color: #f8c471;
 }
@@ -218,11 +212,6 @@ footer{
   list-style-type: none;
   margin: 0;
   padding: 6%;
-}
-
-.buttonthree{
-	margin-bottom: 1em;
-	margin-left: 4.5em;
 }
 
 .booktitle{
