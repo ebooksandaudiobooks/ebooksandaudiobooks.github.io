@@ -281,7 +281,7 @@ footer{
 	display: none;
 }
 
-@media only screen and (max-width: 1180px){
+@media only screen and (max-width: 1211px){
 	#blocks{
 		padding-left: 10em;
 		padding-right: 10em;
@@ -292,9 +292,9 @@ footer{
 	}
 }
 
-@media only screen and (max-width: 1145px){
+@media only screen and (max-width: 1135px){
 	#blocks{
-		padding-left: 10em;
+		padding-left: 8em;
 		padding-right: 10em;
 	}
 
