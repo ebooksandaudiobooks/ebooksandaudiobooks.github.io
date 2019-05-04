@@ -325,8 +325,20 @@ footer{
 		height: 35em;
 	}
 
+	nav{
+		padding: 5% 3.5% 0% 0%;
+	}
+
+	.headtitle{
+		padding: 4% 5.5% 1% 8%;
+	}
+
 	#promotion{
 		margin-right: 22em;
+	}
+
+	.button{
+		margin-left: 19em;
 	}
 
 	.demo{
@@ -334,7 +346,7 @@ footer{
 	}
 
 	.pointers{
-		height: 5em;
+		height: 6em;
 	}
 
 	#devices{
@@ -362,6 +374,14 @@ footer{
 
 	.books img{
 		width: 83%;
+	}
+
+	#icons{
+		padding-left: 37%;
+	}
+
+	.endpage{
+		padding: 0%;
 	}
 }
 
