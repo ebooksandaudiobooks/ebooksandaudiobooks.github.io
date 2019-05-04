@@ -386,13 +386,23 @@ footer{
 }
 
 @media only screen and (max-width: 986px){
+	label{
+		display: block;
+		padding: 5%;
+	}
+
+	#toggle:checked + nav{
+		display: block;
+	}
+
 	nav{
 		display: none;
+		padding-top: 0%;
 	}
 
 	nav a:link{
 		display: block;
-		
+
 	}
 
 	#promotion{
@@ -401,16 +411,24 @@ footer{
 	}
 
 	.button{
-		padding: 3% 6%;
-		margin-left: 4.5em;
+		padding: 1.5% 6%;
+		margin-left: 18.5em;
 	}
 
-	label{
-		display: block;
+	.pointers{
+		height: 4em;
 	}
 
-	#toggle:checked + nav{
-		display: block;
+	#promise{
+		height: 44em;
+	}
+
+	.table{
+		margin-bottom: 2em;
+	}
+
+	.pointers{
+		height: 5em;
 	}
 }
 
