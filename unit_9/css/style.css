@@ -400,11 +400,6 @@ footer{
 		padding-top: 0%;
 	}
 
-	nav a:link{
-		display: block;
-
-	}
-
 	#promotion{
 		margin-right: 1em;
 		margin-bottom: 1em;
@@ -417,10 +412,6 @@ footer{
 
 	.pointers{
 		height: 4em;
-	}
-
-	#promise{
-		height: 44em;
 	}
 
 	.table{
