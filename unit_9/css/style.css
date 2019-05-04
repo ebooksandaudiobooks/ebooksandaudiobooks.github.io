@@ -130,10 +130,6 @@ footer{
 	line-height: 1.35em;
 }
 
-#endpage{
-	text-align: center;
-}
-
 #icons{
 	padding: 1%;
 }
@@ -255,6 +251,11 @@ footer{
 	position: relative;
 	height: 52em;
 	opacity: 0.8;
+}
+
+.endpage{
+	text-align: center;
+	color: black;
 }
 
 .credentials{
