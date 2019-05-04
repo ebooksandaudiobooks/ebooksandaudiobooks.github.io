@@ -130,6 +130,10 @@ footer{
 	line-height: 1.35em;
 }
 
+#endpage{
+	text-align: center;
+}
+
 #icons{
 	padding: 1%;
 }
@@ -253,10 +257,8 @@ footer{
 	opacity: 0.8;
 }
 
-.endpage{
-	text-align: center;
-	padding: 4.5%;
-	color: black;
+.credentials{
+	padding: 0% 1%;
 }
 
 .app-store-icon{
