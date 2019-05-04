@@ -423,6 +423,110 @@ footer{
 	}
 }
 
+@media only screen and (max-width: 380px){
+	nav{
+		padding: 0%;
+	}
+	
+	.navlinks{
+		width: 0em;
+		margin: 0em;
+		padding-top: 1em;
+		padding-bottom: 1em;
+		display: block;
+	}
 
+	.heroimage{
+		height: 60em;
+	}
+
+	.button{
+		padding: 6.5% 6%;
+		margin-left: 3.5em;
+	}
+
+	h2{
+		padding: 11% 0% 2% 10%;
+	}
+
+	.table{
+		margin-left: 3em;
+	}
+
+	.pointers{
+		height: 8em;
+	}
+
+	.argument{
+		padding-right: 53%;
+	}
+
+	#promise{
+		height: 72em;
+	}
+
+	#catch{
+		padding-right: 72%;
+	}
+
+	.stories{
+		padding-left: 2em;
+	}
+
+	#devices{
+		padding-right: 1em;
+	}
+
+	.demo{
+		padding: 2% 3%;
+	}
+
+	.argument{
+		padding-right: 47%;
+	}
+
+	#blocks{
+		padding-left: 0em;
+		padding-right: 0em;
+		padding-top: 2em;
+	}
+
+	.books img{
+		width: 98%;
+	}
+
+	.booktitle{
+		padding-bottom: 0.25em;	
+	}
+
+	hr{
+		margin: 0.25em auto;
+	}
+
+	.grid-item{
+		height: 22em;
+	}
+
+	#een{
+		margin: 5% 15% 0% 20%;
+	}
+
+	#twee{
+		margin: 2% 5% 0% 27%;
+	}
+
+	#drie{
+		margin: 3% 19% 14% 5%;
+	}
+
+	#icons{
+		padding-left: 18%;
+	}
+
+	.app-store-icon{
+		height: 2.5em;
+		margin: 6% 7% 0% 0%;
+	}
+}
 
 
