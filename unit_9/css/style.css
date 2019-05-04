@@ -297,58 +297,71 @@ footer{
 
 @media only screen and (max-width: 1135px){
 	#blocks{
-		padding-left: 8em;
-		padding-right: 10em;
+		padding-left: 5em;
+		padding-right: 7em;
 	}
 
 	.grid-item{
-		width: 33%;
-		height: 31em;
-	}
-
-	h4{
-		padding-top: 23.5em;
-	}
-
-	.pointers{
-		height: 7em;
-	}
-}
-
-
-@media only screen and (max-width: 1050px){
-	#promotion{
-		margin-right: 22em;
-	}
-
-	#blocks{
-		padding-left: 10em;
-		padding-right: 10em;
-	}	
-
-	.grid-item{
-		width: 33%;
-		height: 28em;
+		width: 25%;
+		height: 29em;
 	}
 
 	h4{
 		padding-top: 20.5em;
 	}
 
+	#promise{
+		height: 50em;
+	}
+
 	.pointers{
-		height: 7em;
+		height: 5em;
+	}
+}
+
+
+@media only screen and (max-width: 1036px){
+	.heroimage{
+		height: 35em;
+	}
+
+	#promotion{
+		margin-right: 22em;
+	}
+
+	.demo{
+		padding: 2% 20%;
+	}
+
+	.pointers{
+		height: 5em;
 	}
 
 	#devices{
-		padding-left:6em;
+		padding-right: 10em;
+		width: 91%;
+	}
+
+	#blocks{
+		padding-left: 7em;
+		padding-right: 7em;
+	}	
+
+	.grid-item{
+		width: 25%;
+		height: 24em;
+	}
+
+	h4{
+		padding-top: 1.5em;
 	}
 
 	img{
 		float: none;
 	}
 
-	.demo{
-		padding: 2% 20%;
+	.books img{
+		width: 83%;
 	}
 }
 
