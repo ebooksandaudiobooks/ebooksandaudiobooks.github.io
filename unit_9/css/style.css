@@ -130,12 +130,6 @@ footer{
 	padding: 1%;
 }
 
-#endpage{
-	text-align: center;
-	padding: 4.5%;
-	color: black;
-}
-
 .logo{
 	float: left;
 	width: 19em;
@@ -253,6 +247,12 @@ footer{
 	position: relative;
 	height: 52em;
 	opacity: 0.8;
+}
+
+.endpage{
+	text-align: center;
+	padding: 4.5%;
+	color: black;
 }
 
 .app-store-icon{
