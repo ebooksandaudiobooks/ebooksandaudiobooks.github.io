@@ -18,12 +18,16 @@ nav a:visited{
 	color: white;
 }
 
+nav.endpage a:visited{
+	color: black;
+}
+
 nav a:hover{
 	border-bottom: 1px solid white;
 }
 
-nav a:visited .app-store-icon{
-	color:black;
+nav.endpage a:hover{
+	border-bottom: 1px black;
 }
 
 h2{
