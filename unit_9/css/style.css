@@ -429,10 +429,11 @@ footer{
 	}
 	
 	.navlinks{
-		width: 0em;
+		width: 17em;
 		margin: 0em;
 		padding-top: 1em;
 		padding-bottom: 1em;
+		padding-left: 5em;
 		display: block;
 	}
 
@@ -442,19 +443,20 @@ footer{
 
 	.button{
 		padding: 6.5% 6%;
-		margin-left: 3.5em;
+		margin-left: 2.75em;
 	}
 
 	h2{
-		padding: 11% 0% 2% 10%;
+		padding: 11% 0% 2% 7%;
 	}
 
 	.table{
-		margin-left: 3em;
+		margin-left: 2em;
+		margin-bottom: 0em;
 	}
 
 	.pointers{
-		height: 8em;
+		height: 9em;
 	}
 
 	.argument{
@@ -462,7 +464,7 @@ footer{
 	}
 
 	#promise{
-		height: 72em;
+		height: 75em;
 	}
 
 	#catch{
