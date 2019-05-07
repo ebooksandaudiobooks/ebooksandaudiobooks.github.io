@@ -195,6 +195,11 @@ footer{
 	height: 6em;
 }
 
+.steps{
+	width: 40em;
+	height: 6em;
+}
+
 .pointers img{
 	width: 1.875em;
 	float:left;
@@ -429,16 +434,15 @@ footer{
 	}
 	
 	.navlinks{
-		width: 17em;
-		margin: 0em;
+		width: 9em;
+		margin-left: 7em;
 		padding-top: 1em;
 		padding-bottom: 1em;
-		padding-left: 5em;
 		display: block;
 	}
 
 	.heroimage{
-		height: 60em;
+		height: 58em;
 	}
 
 	.button{
@@ -456,19 +460,23 @@ footer{
 	}
 
 	.pointers{
-		height: 9em;
+		height: 8em;
 	}
 
 	.argument{
-		padding-right: 53%;
+		padding-right: 51%;
 	}
 
 	#promise{
-		height: 75em;
+		height: 70em;
 	}
 
 	#catch{
-		padding-right: 72%;
+		padding-right: 58%;
+	}
+
+	.steps{
+		height: 9em;
 	}
 
 	.stories{
@@ -480,7 +488,7 @@ footer{
 	}
 
 	.demo{
-		padding: 2% 3%;
+		padding: 8% 3%;
 	}
 
 	.argument{
