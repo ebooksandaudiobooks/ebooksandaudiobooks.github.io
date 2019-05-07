@@ -455,12 +455,13 @@ footer{
 	}
 
 	.table{
-		margin-left: 2em;
+		margin-left: 1.75em;
 		margin-bottom: 0em;
 	}
 
 	.pointers{
 		height: 8em;
+		padding-right: 3em;
 	}
 
 	.argument{
@@ -476,7 +477,7 @@ footer{
 	}
 
 	.steps{
-		height: 9em;
+		height: 8em;
 	}
 
 	.stories{
@@ -488,11 +489,15 @@ footer{
 	}
 
 	.demo{
-		padding: 8% 3%;
+		padding: 11% 3% 6% 1%;
 	}
 
 	.argument{
 		padding-right: 47%;
+	}
+
+	#method{
+		padding-bottom: 4em;
 	}
 
 	#blocks{
@@ -510,11 +515,12 @@ footer{
 	}
 
 	hr{
-		margin: 0.25em auto;
+		margin: 0.75em auto;
 	}
 
 	.grid-item{
 		height: 22em;
+		width: 50%;
 	}
 
 	#een{
