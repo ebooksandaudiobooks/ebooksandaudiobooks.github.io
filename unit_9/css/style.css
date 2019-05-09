@@ -297,9 +297,9 @@ footer{
 	display: none;
 }
 
-@media only screen and (max-width: 1217px){
+@media only screen and (max-width: 1235px){
 	#blocks{
-		padding-left: 10em;
+		padding-left: 13em;
 		padding-right: 10em;
 	}
 
@@ -310,7 +310,7 @@ footer{
 
 @media only screen and (max-width: 1135px){
 	#blocks{
-		padding-left: 5em;
+		padding-left: 6em;
 		padding-right: 7em;
 	}
 
@@ -329,6 +329,11 @@ footer{
 
 	.pointers{
 		height: 5em;
+	}
+
+	.credentials{
+		margin-right: 0em;
+		margin-left: 0em;
 	}
 }
 
@@ -354,12 +359,20 @@ footer{
 		margin-left: 19em;
 	}
 
+	#promise{
+		height: 55em;
+	}
+
 	.demo{
 		padding: 2% 20%;
 	}
 
 	.pointers{
 		height: 6em;
+	}
+
+	#method{
+		height: 60em;
 	}
 
 	#devices{
@@ -420,11 +433,11 @@ footer{
 	}
 
 	.heroimage{
-		height: 36em;
+		height: 39em;
 	}
 
 	#promotion{
-		margin-right: 1em;
+		margin-right: 23em;
 		margin-bottom: 1em;
 	}
 
@@ -433,12 +446,12 @@ footer{
 		margin-left: 18.5em;
 	}
 
-	.pointers{
-		height: 4em;
-	}
-
 	.table{
 		margin-bottom: 2em;
+	}
+
+	#catch{
+		height: 4em;
 	}
 
 	.steps{
@@ -456,7 +469,7 @@ footer{
 	}
 
 	.reviews{
-		height: 56em;
+		height: 52em;
 	}
 
 	.button{
@@ -494,12 +507,20 @@ footer{
 		margin-right: 13em;
 	}
 
+	#promise{
+		height: 53em;
+	}
+
 	.table{
 		margin-left: 5em;
 	}
 
 	.button{
 		margin-left: 14em;
+	}
+
+	.stories{
+		padding-left: 4em;
 	}
 
 	#devices{
@@ -511,8 +532,12 @@ footer{
 	}
 
 	#blocks{
-		padding-left: 4em;
-		padding-right: 4em;
+		padding-left: 3em;
+		padding-right: 3em;
+	}
+
+	.reviews{
+		height: 57em;
 	}
 }
 
@@ -521,8 +546,20 @@ footer{
 		margin-left: 11em;
 	}
 
+	#promise{
+		height: 50em;
+	}
+
+	.stories{
+		padding-left: 3em;
+	}
+
 	.table{
 		margin-left: 4em;
+	}
+
+	.steps{
+		height: 6.5em;
 	}
 
 	.argument{
@@ -531,6 +568,15 @@ footer{
 
 	.pointers{
 		height: 5.5em;
+	}
+
+	#blocks{
+		padding-left: 9em;
+		padding-right: 8em;
+	}
+
+	.grid-item{
+		width: 50%;
 	}
 }
 
