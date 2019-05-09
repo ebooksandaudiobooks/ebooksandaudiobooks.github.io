@@ -202,7 +202,7 @@ footer{
 
 .pointers img{
 	width: 1.875em;
-	float:left;
+	float: left;
 	padding-top: 1.5%;
 }
 
@@ -265,6 +265,14 @@ footer{
 
 .credentials{
 	padding: 2% 2%;
+	text-align: center;
+	font-weight: 900;
+	font-size: 1em;
+	color: white;
+	letter-spacing: 1px;
+	width: 3em;
+	margin-right: 1em;
+	margin-left: 1em;
 }
 
 .app-store-icon{
@@ -359,14 +367,20 @@ footer{
 		width: 91%;
 	}
 
+	.steps{
+		width: 40em;
+		height: 5em;
+	}
+
 	#blocks{
-		padding-left: 7em;
-		padding-right: 7em;
+		padding-left: 6em;
+		padding-right: 6em;
 	}	
 
 	.grid-item{
 		width: 25%;
 		height: 24em;
+		padding: 0.5em;
 	}
 
 	h4{
@@ -405,6 +419,10 @@ footer{
 		padding-top: 0%;
 	}
 
+	.heroimage{
+		height: 36em;
+	}
+
 	#promotion{
 		margin-right: 1em;
 		margin-bottom: 1em;
@@ -423,8 +441,96 @@ footer{
 		margin-bottom: 2em;
 	}
 
+	.steps{
+		height: 5em;
+	}
+}
+
+@media only screen and (max-width: 944px){
+	#promotion{
+		margin-right: 19em;
+	}
+
+	.heroimage{
+		height: 39em;
+	}
+
+	.reviews{
+		height: 56em;
+	}
+
+	.button{
+		margin-left: 17.25em;
+	}
+}
+
+@media only screen and (max-width: 858px){
+	#promotion{
+		margin-right: 17em;
+	}
+
+	.table{
+		margin-left: 7em;
+
 	.pointers{
 		height: 5em;
+	}
+
+	.button{
+		margin-left: 15.5em;
+	}
+
+	.stories{
+		padding-left: 6em;
+	}
+
+	.demo{
+		padding: 2% 16%;
+	}
+}
+
+@media only screen and (max-width: 775px){
+	#promotion{
+		margin-right: 13em;
+	}
+
+	.table{
+		margin-left: 5em;
+	}
+
+	.button{
+		margin-left: 14em;
+	}
+
+	#devices{
+		padding-right: 3em;
+	}
+
+	.demo{
+		padding: 2% 10%;
+	}
+
+	#blocks{
+		padding-left: 4em;
+		padding-right: 4em;
+	}
+}
+
+@media only screen and (max-width: 679px){
+	.button{
+		margin-left: 11em;
+	}
+
+	.table{
+		margin-left: 4em;
+	}
+
+	.argument{
+		padding-right: 10%;
+	}
+
+	.pointers{
+		height: 5.5em;
 	}
 }
 
