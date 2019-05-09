@@ -602,6 +602,10 @@ footer{
 		margin-left: 2.75em;
 	}
 
+	#promotion{
+		margin-right: 1em;
+	}
+
 	h2{
 		padding: 11% 0% 2% 7%;
 	}
@@ -626,6 +630,11 @@ footer{
 
 	#catch{
 		padding-right: 58%;
+		height: 8em;
+	}
+
+	#method{
+		height: 58em;
 	}
 
 	.steps{
@@ -653,8 +662,8 @@ footer{
 	}
 
 	#blocks{
-		padding-left: 0em;
-		padding-right: 0em;
+		padding-left: 1em;
+		padding-right: 1em;
 		padding-top: 2em;
 	}
 
@@ -671,7 +680,7 @@ footer{
 	}
 
 	.grid-item{
-		height: 22em;
+		height: 23em;
 		width: 50%;
 	}
 
